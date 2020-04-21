@@ -1,5 +1,7 @@
 # Kontaktliste for medlemsforeninger i Norsk Digital Kultur
 
+**NB NB NB: Ikke en faktisk liste over medlemsforeninger ennå /NB /NB /NB**
+
 | Organisasjon | Nettsted | Facebook | Twitch/Youtube | Discord |
 |--------------|----------|----------|----------------|---------|
 | Casual Gaming | [casualgaming.no](https://casualgaming.no), [trondelan.no](https://trondelan.no), [studlan.no](https://studlan.no) | [CasualGamingTrondheim](https://www.facebook.com/CasualGamingTrondheim/) | [Twitch (CasualGamingNorway)](https://www.twitch.tv/CasualGamingNorway), [YouTube](https://www.youtube.com/user/studlanNTNU/) | [Discord](https://discordapp.com/invite/TENjrqs) |
