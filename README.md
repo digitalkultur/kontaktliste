@@ -138,7 +138,7 @@
         <li><a href="URL">NETTSIDE</a></li>
       </ul>
     </td>
-    <td>EMAIL 📧 DOMENE</td>
+    <td>EMAIL📧DOMENE</td>
     <td>
       <a href="DISCORD_URL">
         <img src="./ikoner/discord.svg" width="32" height="32"/>
