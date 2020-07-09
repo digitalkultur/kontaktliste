@@ -18,23 +18,23 @@
     <td><h3>Casual Gaming</h3></td>
     <td>
       <ul>
-        <li><a href="https://casualgaming.no">casualgaming.no</a></li>
-        <li><a href="https://trondelan.no">trondelan.no</a></li>
-        <li><a href="https://studlan.no">studlan.no</a></li>
+        <li><a href="https://casualgaming.no" target="_blank">casualgaming.no</a></li>
+        <li><a href="https://trondelan.no" target="_blank">trondelan.no</a></li>
+        <li><a href="https://studlan.no" target="_blank">studlan.no</a></li>
       </ul>
     </td>
     <td>post📧casualgaming.no</td>
     <td>
-      <a href="https://link.casualgaming.no/discord">
+      <a href="https://link.casualgaming.no/discord" target="_blank">
         <img src="./ikoner/discord.svg" width="32" height="32"/>
       </a>
-      <a href="https://www.facebook.com/CasualGamingTrondheim/">
+      <a href="https://www.facebook.com/CasualGamingTrondheim/" target="_blank">
         <img src="./ikoner/facebook.svg" width="32" height="32"/>
       </a>
-      <a href="https://www.twitch.tv/CasualGamingNorway">
+      <a href="https://www.twitch.tv/CasualGamingNorway" target="_blank">
         <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
       </a>
-      <a href="https://www.youtube.com/user/studlanNTNU/">
+      <a href="https://www.youtube.com/user/studlanNTNU/" target="_blank">
         <img src="./ikoner/youtube.svg" width="32" height="32"/>
       </a>
     </td>
@@ -44,15 +44,15 @@
     <td><h3>Errors Party<h3></td>
     <td>
       <ul>
-        <li><a href="https://errorsparty.no">errorsparty.no</a></li>
+        <li><a href="https://errorsparty.no" target="_blank">errorsparty.no</a></li>
       </ul>
     </td>
     <td>styret📧errorsparty.no</td>
     <td>
-      <a href="https://errorsparty.no/discord">
+      <a href="https://errorsparty.no/discord" target="_blank">
         <img src="./ikoner/discord.svg" width="32" height="32"/>
       </a>
-      <a href="https://www.facebook.com/ErrorsParty/">
+      <a href="https://www.facebook.com/ErrorsParty/" target="_blank">
         <img src="./ikoner/facebook.svg" width="32" height="32"/>
       </a>
     </td>
@@ -62,27 +62,27 @@
     <td><h3>HordaLAN Dataforening<h3></td>
     <td>
       <ul>
-        <li><a href="https://hordalan.no">hordalan.no</a></li>
+        <li><a href="https://hordalan.no" target="_blank">hordalan.no</a></li>
       </ul>
     </td>
     <td>info📧hordalan.no</td>
     <td>
-      <a href="https://discord.hordalan.no">
+      <a href="https://discord.hordalan.no" target="_blank">
         <img src="./ikoner/discord.svg" width="32" height="32"/>
       </a>
-      <a href="https://facebook.com/hordalan.no">
+      <a href="https://facebook.com/hordalan.no" target="_blank">
         <img src="./ikoner/facebook.svg" width="32" height="32"/>
       </a>
-      <a href="https://github.com/HordaLAN">
+      <a href="https://github.com/HordaLAN" target="_blank">
         <img src="./ikoner/github.svg" width="32" height="32"/>
       </a>
-      <a href="https://instagram.com/HordaLAN/">
+      <a href="https://instagram.com/HordaLAN/" target="_blank">
         <img src="./ikoner/instagram.svg" width="32" height="32"/>
       </a>
-      <a href="https://www.twitch.tv/hordalan">
+      <a href="https://www.twitch.tv/hordalan" target="_blank">
         <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
       </a>
-      <a href="https://www.youtube.com/user/HordaLANofficial">
+      <a href="https://www.youtube.com/user/HordaLANofficial" target="_blank">
         <img src="./ikoner/youtube.svg" width="32" height="32"/>
       </a>
     </td>
@@ -92,16 +92,16 @@
     <td><h3>KANDU<h3></td>
     <td>
       <ul>
-        <li><a href="https://www.kandu.no">kandu.no</a></li>
-        <li><a href="https://www.gathering.org/">gathering.org</a></li>
+        <li><a href="https://www.kandu.no" target="_blank">kandu.no</a></li>
+        <li><a href="https://www.gathering.org/" target="_blank">gathering.org</a></li>
       </ul>
     </td>
     <td>kontoret📧kandu.no</td>
     <td>
-      <a href="https://www.facebook.com/dataungdom/">
+      <a href="https://www.facebook.com/dataungdom/" target="_blank">
         <img src="./ikoner/facebook.svg" width="32" height="32"/>
       </a>
-      <a href="https://www.facebook.com/gatheringorg">
+      <a href="https://www.facebook.com/gatheringorg" target="_blank">
         <img src="./ikoner/facebook.svg" width="32" height="32"/>
       </a>
     </td>
@@ -111,22 +111,22 @@
     <td><h3>Vestfold Digitale Ungdom<h3></td>
     <td>
       <ul>
-        <li><a href="https://www.digitalungdom.no">digitalungdom.no</a></li>
-        <li><a href="https://www.globelan.no">globelan.no</a></li>
+        <li><a href="https://www.digitalungdom.no" target="_blank">digitalungdom.no</a></li>
+        <li><a href="https://www.globelan.no" target="_blank">globelan.no</a></li>
       </ul>
     </td>
     <td>styret📧digitalungdom.no</td>
     <td>
-      <a href="https://discord.gg/sHuEG7w">
+      <a href="https://discord.gg/sHuEG7w" target="_blank">
         <img src="./ikoner/discord.svg" width="32" height="32"/>
       </a>
-      <a href="https://www.facebook.com/VestfoldDigitaleUngdom/">
+      <a href="https://www.facebook.com/VestfoldDigitaleUngdom/" target="_blank">
         <img src="./ikoner/facebook.svg" width="32" height="32"/>
       </a>
-      <a href="https://www.facebook.com/GlobeLAN/">
+      <a href="https://www.facebook.com/GlobeLAN/" target="_blank">
         <img src="./ikoner/facebook.svg" width="32" height="32"/>
       </a>
-      <a href="https://www.twitch.tv/digitalungdom">
+      <a href="https://www.twitch.tv/digitalungdom" target="_blank">
         <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
       </a>
     </td>
@@ -139,30 +139,30 @@
     <td><h3>ORGANISASJON<h3></td>
     <td>
       <ul>
-        <li><a href="URL">NETTSIDE</a></li>
+        <li><a href="URL" target="_blank">NETTSIDE</a></li>
       </ul>
     </td>
     <td>EMAIL📧DOMENE</td>
     <td>
-      <a href="DISCORD_URL">
+      <a href="DISCORD_URL" target="_blank">
         <img src="./ikoner/discord.svg" width="32" height="32"/>
       </a>
-      <a href="FACEBOOK_URL">
+      <a href="FACEBOOK_URL" target="_blank">
         <img src="./ikoner/facebook.svg" width="32" height="32"/>
       </a>
-      <a href="GITHUB_URL">
+      <a href="GITHUB_URL" target="_blank">
         <img src="./ikoner/github.svg" width="32" height="32"/>
       </a>
-      <a href="INSTAGRAM_URL">
+      <a href="INSTAGRAM_URL" target="_blank">
         <img src="./ikoner/instagram.svg" width="32" height="32"/>
       </a>
-      <a href="TWITCH_URL">
+      <a href="TWITCH_URL" target="_blank">
         <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
       </a>
-      <a href="TWITTER_URL">
+      <a href="TWITTER_URL" target="_blank">
         <img src="./ikoner/twitter.svg" width="32" height="32"/>
       </a>
-      <a href="YOUTUBE_URL">
+      <a href="YOUTUBE_URL" target="_blank">
         <img src="./ikoner/youtube.svg" width="32" height="32"/>
       </a>
     </td>
