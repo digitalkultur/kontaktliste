@@ -55,7 +55,7 @@
   </tr>
 
   <tr>
-    <td><h2 style="text-align: center;">KANDU<h2></td>
+    <td><h2>KANDU<h2></td>
     <td>
       <ul>
         <li><a href="https://www.kandu.no">kandu.no</a></li>
@@ -77,8 +77,8 @@
     <td><h2>Vestfold Digitale Ungdom<h2></td>
     <td>
       <ul>
-        <li><a href="https://digitalungdom.no">digitalungdom.no</a></li>
-        <li><a href="https://globelan.no">globelan.no</a></li>
+        <li><a href="https://www.digitalungdom.no">digitalungdom.no</a></li>
+        <li><a href="https://www.globelan.no">globelan.no</a></li>
       </ul>
     </td>
     <td>styret📧digitalungdom.no</td>
