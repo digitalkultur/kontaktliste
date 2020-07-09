@@ -11,7 +11,7 @@
   </tr>
 
   <tr>
-    <td><h2 style="text-align: center;">Casual Gaming</h2></td>
+    <td><h2>Casual Gaming</h2></td>
     <td>
       <ul>
         <li><a href="https://casualgaming.no">casualgaming.no</a></li>
@@ -21,7 +21,7 @@
     </td>
     <td>post📧casualgaming.no</td>
     <td>
-      <ul style="list-style-type: none;">
+      <ul>
         <li>
           <a href="https://link.casualgaming.no/discord">
             <img src="./ikoner/discord.svg" width="32" height="32"/>
@@ -47,15 +47,15 @@
   </tr>
 
   <tr>
-    <td><h2 style="text-align: center;">Errors Party<h2></td>
+    <td><h2>Errors Party<h2></td>
     <td>
       <ul>
         <li><a href="https://errorsparty.no">errorsparty.no</a></li>
       </ul>
     </td>
-    <td>styret 📧 errorsparty.no</td>
+    <td>styret📧errorsparty.no</td>
     <td>
-      <ul style="list-style-type: none;">
+      <ul>
         <li>
           <a href="https://errorsparty.no/discord">
             <img src="./ikoner/discord.svg" width="32" height="32"/>
@@ -78,9 +78,9 @@
         <li><a href="https://www.gathering.org/">gathering.org</a></li>
       </ul>
     </td>
-    <td>kontoret 📧 kandu.no</td>
+    <td>kontoret📧kandu.no</td>
     <td>
-      <ul style="list-style-type: none;">
+      <ul>
         <li>
           <a href="https://www.facebook.com/dataungdom/">
             <img src="./ikoner/facebook.svg" width="32" height="32"/>
@@ -96,16 +96,16 @@
   </tr>
 
   <tr>
-    <td><h2 style="text-align: center;">Vestfold Digitale Ungdom<h2></td>
+    <td><h2>Vestfold Digitale Ungdom<h2></td>
     <td>
       <ul>
         <li><a href="https://digitalungdom.no">digitalungdom.no</a></li>
         <li><a href="https://globelan.no">globelan.no</a></li>
       </ul>
     </td>
-    <td>styret 📧 digitalungdom.no</td>
+    <td>styret📧digitalungdom.no</td>
     <td>
-      <ul style="list-style-type: none;">
+      <ul>
         <li>
           <a href="https://discord.gg/sHuEG7w">
             <img src="./ikoner/discord.svg" width="32" height="32"/>
@@ -134,7 +134,7 @@
 
 <!--
   <tr>
-    <td><h2 style="text-align: center;">ORGANISASJON<h2></td>
+    <td><h2>ORGANISASJON<h2></td>
     <td>
       <ul>
         <li><a href="URL">NETTSIDE</a></li>
@@ -142,7 +142,7 @@
     </td>
     <td>EMAIL 📧 DOMENE</td>
     <td>
-      <ul style="list-style-type: none;">
+      <ul>
         <li>
           <a href="DISCORD_URL">
             <img src="./ikoner/discord.svg" width="32" height="32"/>
