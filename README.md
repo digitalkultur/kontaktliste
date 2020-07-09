@@ -21,28 +21,18 @@
     </td>
     <td>post📧casualgaming.no</td>
     <td>
-      <ul>
-        <li>
-          <a href="https://link.casualgaming.no/discord">
-            <img src="./ikoner/discord.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.facebook.com/CasualGamingTrondheim/">
-            <img src="./ikoner/facebook.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.twitch.tv/CasualGamingNorway">
-            <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.youtube.com/user/studlanNTNU/">
-            <img src="./ikoner/youtube.svg" width="32" height="32"/>
-          </a>
-        </li>
-      </ul>
+      <a href="https://link.casualgaming.no/discord">
+        <img src="./ikoner/discord.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.facebook.com/CasualGamingTrondheim/">
+        <img src="./ikoner/facebook.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.twitch.tv/CasualGamingNorway">
+        <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.youtube.com/user/studlanNTNU/">
+        <img src="./ikoner/youtube.svg" width="32" height="32"/>
+      </a>
     </td>
   </tr>
 
@@ -55,18 +45,12 @@
     </td>
     <td>styret📧errorsparty.no</td>
     <td>
-      <ul>
-        <li>
-          <a href="https://errorsparty.no/discord">
-            <img src="./ikoner/discord.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.facebook.com/ErrorsParty/">
-            <img src="./ikoner/facebook.svg" width="32" height="32"/>
-          </a>
-        </li>
-      </ul>
+      <a href="https://errorsparty.no/discord">
+        <img src="./ikoner/discord.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.facebook.com/ErrorsParty/">
+        <img src="./ikoner/facebook.svg" width="32" height="32"/>
+      </a>
     </td>
   </tr>
 
@@ -80,18 +64,12 @@
     </td>
     <td>kontoret📧kandu.no</td>
     <td>
-      <ul>
-        <li>
-          <a href="https://www.facebook.com/dataungdom/">
-            <img src="./ikoner/facebook.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.facebook.com/gatheringorg">
-            <img src="./ikoner/facebook.svg" width="32" height="32"/>
-          </a>
-        </li>
-      </ul>
+      <a href="https://www.facebook.com/dataungdom/">
+        <img src="./ikoner/facebook.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.facebook.com/gatheringorg">
+        <img src="./ikoner/facebook.svg" width="32" height="32"/>
+      </a>
     </td>
   </tr>
 
@@ -105,28 +83,18 @@
     </td>
     <td>styret📧digitalungdom.no</td>
     <td>
-      <ul>
-        <li>
-          <a href="https://discord.gg/sHuEG7w">
-            <img src="./ikoner/discord.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.facebook.com/VestfoldDigitaleUngdom/">
-            <img src="./ikoner/facebook.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.facebook.com/GlobeLAN/">
-            <img src="./ikoner/facebook.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="https://www.twitch.tv/digitalungdom">
-            <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
-          </a>
-        </li>
-      </ul>
+      <a href="https://discord.gg/sHuEG7w">
+        <img src="./ikoner/discord.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.facebook.com/VestfoldDigitaleUngdom/">
+        <img src="./ikoner/facebook.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.facebook.com/GlobeLAN/">
+        <img src="./ikoner/facebook.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.twitch.tv/digitalungdom">
+        <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
+      </a>
     </td>
   </tr>
 
@@ -142,38 +110,24 @@
     </td>
     <td>EMAIL 📧 DOMENE</td>
     <td>
-      <ul>
-        <li>
-          <a href="DISCORD_URL">
-            <img src="./ikoner/discord.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="FACEBOOK_URL">
-            <img src="./ikoner/facebook.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="INSTAGRAM_URL">
-            <img src="./ikoner/instagram.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="TWITCH_URL">
-            <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="TWITTER_URL">
-            <img src="./ikoner/twitter.svg" width="32" height="32"/>
-          </a>
-        </li>
-        <li>
-          <a href="YOUTUBE_URL">
-            <img src="./ikoner/youtube.svg" width="32" height="32"/>
-          </a>
-        </li>
-      </ul>
+      <a href="DISCORD_URL">
+        <img src="./ikoner/discord.svg" width="32" height="32"/>
+      </a>
+      <a href="FACEBOOK_URL">
+        <img src="./ikoner/facebook.svg" width="32" height="32"/>
+      </a>
+      <a href="INSTAGRAM_URL">
+        <img src="./ikoner/instagram.svg" width="32" height="32"/>
+      </a>
+      <a href="TWITCH_URL">
+        <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
+      </a>
+      <a href="TWITTER_URL">
+        <img src="./ikoner/twitter.svg" width="32" height="32"/>
+      </a>
+      <a href="YOUTUBE_URL">
+        <img src="./ikoner/youtube.svg" width="32" height="32"/>
+      </a>
     </td>
   </tr>
 -->
