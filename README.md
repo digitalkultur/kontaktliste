@@ -1,8 +1,10 @@
 # Kontaktliste
 
-> ## Norsk Digital Kultur - Medlemsforeninger
+> ## Norsk Digital Kultur
 
-**NB NB NB: Ikke en faktisk liste over medlemsforeninger enda /NB /NB /NB**
+**\<NB\>** _Ikke en faktisk liste over medlemsforeninger enda_ **\<\/NB\>**
+
+**\<NB\>** _Foreløpig brukt som en åpen kontaktliste_ **\<\/NB\>**
 
 <table>
   <tr>
