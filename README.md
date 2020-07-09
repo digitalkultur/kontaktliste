@@ -116,6 +116,9 @@
       <a href="FACEBOOK_URL">
         <img src="./ikoner/facebook.svg" width="32" height="32"/>
       </a>
+      <a href="GITHUB_URL">
+        <img src="./ikoner/github.svg" width="32" height="32"/>
+      </a>
       <a href="INSTAGRAM_URL">
         <img src="./ikoner/instagram.svg" width="32" height="32"/>
       </a>
