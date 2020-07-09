@@ -11,7 +11,7 @@
   </tr>
 
   <tr>
-    <td><h2>Casual Gaming</h2></td>
+    <td><h3>Casual Gaming</h3></td>
     <td>
       <ul>
         <li><a href="https://casualgaming.no">casualgaming.no</a></li>
@@ -37,7 +37,7 @@
   </tr>
 
   <tr>
-    <td><h2>Errors Party<h2></td>
+    <td><h3>Errors Party<h3></td>
     <td>
       <ul>
         <li><a href="https://errorsparty.no">errorsparty.no</a></li>
@@ -55,7 +55,7 @@
   </tr>
 
   <tr>
-    <td><h2>KANDU<h2></td>
+    <td><h3>KANDU<h3></td>
     <td>
       <ul>
         <li><a href="https://www.kandu.no">kandu.no</a></li>
@@ -74,7 +74,7 @@
   </tr>
 
   <tr>
-    <td><h2>Vestfold Digitale Ungdom<h2></td>
+    <td><h3>Vestfold Digitale Ungdom<h3></td>
     <td>
       <ul>
         <li><a href="https://www.digitalungdom.no">digitalungdom.no</a></li>
@@ -102,7 +102,7 @@
 
 <!--
   <tr>
-    <td><h2>ORGANISASJON<h2></td>
+    <td><h3>ORGANISASJON<h3></td>
     <td>
       <ul>
         <li><a href="URL">NETTSIDE</a></li>
