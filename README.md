@@ -1,6 +1,8 @@
-# Kontaktliste for medlemsforeninger i Norsk Digital Kultur
+# Kontaktliste
 
-**NB NB NB: Ikke en faktisk liste over medlemsforeninger ennå /NB /NB /NB**
+> ## Norsk Digital Kultur - Medlemsforeninger
+
+**NB NB NB: Ikke en faktisk liste over medlemsforeninger enda /NB /NB /NB**
 
 <table>
   <tr>
@@ -164,3 +166,11 @@
     </td>
   </tr>
 -->
+
+---
+
+## Ønsker du å legge til din organisasjon i listen over?
+
+Opprett en [sak](https://github.com/digitalkultur/kontaktliste/issues/new) og legg ved tilsvarende informasjon som du finner i tabellen over.
+
+Eventuelt kan man også legge inn et endringsforslag (`pull request`) via <img src="./ikoner/fork.png" />-knappen ved å laste opp endringene utført til GitHub, og deretter bruke web-grensesnittet til å sende inn et endringsforslag opp mot `digitalkultur/kontaktliste`.
