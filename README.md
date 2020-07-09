@@ -55,6 +55,36 @@
   </tr>
 
   <tr>
+    <td><h3>HordaLAN Dataforening<h3></td>
+    <td>
+      <ul>
+        <li><a href="https://hordalan.no">hordalan.no</a></li>
+      </ul>
+    </td>
+    <td>info📧hordalan.no</td>
+    <td>
+      <a href="https://discord.hordalan.no">
+        <img src="./ikoner/discord.svg" width="32" height="32"/>
+      </a>
+      <a href="https://facebook.com/hordalan.no">
+        <img src="./ikoner/facebook.svg" width="32" height="32"/>
+      </a>
+      <a href="https://github.com/HordaLAN">
+        <img src="./ikoner/github.svg" width="32" height="32"/>
+      </a>
+      <a href="https://instagram.com/HordaLAN/">
+        <img src="./ikoner/instagram.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.twitch.tv/hordalan">
+        <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.youtube.com/user/HordaLANofficial">
+        <img src="./ikoner/youtube.svg" width="32" height="32"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
     <td><h3>KANDU<h3></td>
     <td>
       <ul>
