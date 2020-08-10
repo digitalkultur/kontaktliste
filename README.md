@@ -31,6 +31,12 @@
       <a href="https://www.facebook.com/CasualGamingTrondheim/" target="_blank">
         <img src="./ikoner/facebook.svg" width="32" height="32"/>
       </a>
+      <a href="https://github.com/casualgaming/" target="_blank">
+        <img src="./ikoner/github.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.instagram.com/casualgamingno/" target="_blank">
+        <img src="./ikoner/instagram.svg" width="32" height="32"/>
+      </a>
       <a href="https://www.twitch.tv/CasualGamingNorway" target="_blank">
         <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
       </a>
