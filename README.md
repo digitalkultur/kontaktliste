@@ -55,6 +55,15 @@
       <a href="https://www.facebook.com/ErrorsParty/" target="_blank">
         <img src="./ikoner/facebook.svg" width="32" height="32"/>
       </a>
+      <a href="https://www.instagram.com/errorsparty/" target="_blank">
+        <img src="./ikoner/instagram.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.twitch.tv/errorsparty" target="_blank">
+        <img src="./ikoner/twitchtv.svg" width="32" height="32"/>
+      </a>
+      <a href="https://www.youtube.com/user/ErrorsParty">
+        <img src="./ikoner/youtube.svg" width="32" height="32"/>
+      </a>
     </td>
   </tr>
 
